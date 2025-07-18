@@ -33,7 +33,7 @@ module.exports = async kernel =>
 				method: 'shell.run',
 				params:
 				{
-					message: 'git clone https://github.com/facefusion/facefusion --branch 3.3.2 --single-branch'
+					message: 'git clone https://github.com/forb1dden/fkryrdrms001 --branch 3.0.1 --single-branch'
 				}
 			},
 			{
